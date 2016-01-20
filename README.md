@@ -32,7 +32,7 @@ I also followed this guide (generally): https://github.com/google/cups-connector
 
 #### My exact steps:
 ```
-sudo mkdir /usr/local/binary
+sudo mkdir /usr/local/bin
 sudo apt-get update
 wget https://github.com/google/cups-connector/releases/download/2016.01.02/gcp-cups-connector-rpi-jessie-2016.01.02.tar.gz
 tar -zxvf gcp-cups-connector-rpi-jessie-2016.01.02.tar.gz
